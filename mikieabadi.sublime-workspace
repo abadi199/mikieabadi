@@ -1,0 +1,1338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input-shadow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"Text"
+			],
+			[
+				"bold",
+				"bold-color"
+			],
+			[
+				"menu",
+				"menu-mobile-height"
+			],
+			[
+				"bol",
+				"bold-color"
+			],
+			[
+				"acce",
+				"accent-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"menu-",
+				"menu-height"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"off",
+				"offsetFn"
+			],
+			[
+				"header",
+				"header-height-fallback"
+			],
+			[
+				"heade",
+				"header-height-fallback"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"men",
+				"menu-height"
+			],
+			[
+				"c",
+				"cthulhu_room"
+			],
+			[
+				"bear",
+				"bear_moved"
+			],
+			[
+				"repl",
+				"replacement"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"ca",
+				"cart_id"
+			],
+			[
+				"ass",
+				"assert_equal"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"diff",
+				"diffY"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"Epub",
+				"EpubFile"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"body",
+				"body-padding-top"
+			],
+			[
+				"con",
+				"content_tag"
+			],
+			[
+				"boo",
+				"books_url"
+			],
+			[
+				"nav",
+				"navbarBackgroundHighlight"
+			],
+			[
+				"cover",
+				"cover_file"
+			],
+			[
+				"defaul",
+				"default_cover_file"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"pag",
+				"paginate"
+			],
+			[
+				"bro",
+				"browse_by_series"
+			],
+			[
+				"seri",
+				"series_id"
+			],
+			[
+				"de",
+				"defs	def self .. end"
+			],
+			[
+				"wath",
+				"watched_folder"
+			],
+			[
+				"th",
+				"thumbnail_name"
+			],
+			[
+				"new_image_n",
+				"new_image_name"
+			],
+			[
+				"cl",
+				"cla	class .. initialize .. end"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"book",
+				"book_file"
+			],
+			[
+				"series",
+				"series_id"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"parse",
+				"parse_comic"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"f",
+				"font	font-style: normal/italic/oblique"
+			],
+			[
+				"d",
+				"d	display: none"
+			],
+			[
+				"li",
+				"li-height"
+			],
+			[
+				"bc",
+				"btc	border-top-color: color"
+			],
+			[
+				"tt",
+				"tt	text-transform: capitalize"
+			],
+			[
+				"ta",
+				"ta	text-align: center"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"b",
+				"b	border: all compact"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"fi",
+				"fieldset	Tag"
+			],
+			[
+				"colo",
+				"color	color: rgb"
+			],
+			[
+				"col",
+				"color	color: rgb"
+			],
+			[
+				"background",
+				"background	background-color: rgb"
+			],
+			[
+				"backg",
+				"background	background-color: hex"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"new",
+				"new_image"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"wa",
+				"watched_folder"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"sta",
+				"start_guard"
+			],
+			[
+				"Wa",
+				"WatchedFolderDaemon"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"is_",
+				"is_daemon_start"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"gu",
+				"guardfile"
+			],
+			[
+				"start",
+				"start_watched_folder_path"
+			],
+			[
+				"wat",
+				"watched_folder_daemon"
+			],
+			[
+				"Watc",
+				"WatchedFolder"
+			],
+			[
+				"watch",
+				"watched_folder"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"wac",
+				"watching"
+			],
+			[
+				"Wat",
+				"WatchedFolder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mikieabadi/style.scss",
+			"settings":
+			{
+				"buffer_size": 10298,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Paclage",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/style.scss",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/header.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/footer.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/functions.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/gifts.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/pictures.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/js/navigation.js",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/sassy_s/_typography.scss",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/story.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/ceremony.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/location.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/rsvp.php",
+		"//etg19/Projects/Brandt/rdp credentials.txt",
+		"/C/Users/akurniawan/AppData/Local/Temp/_tc/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/mikieabadi.info/wp-content/themes/twentytwelve/page-templates/front-page.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/style.css",
+		"/C/Users/akurniawan/AppData/Roaming/Sublime Text 2/Packages/User/SCSS.sublime-build",
+		"/C/Users/Abadi/Google Drive/Wedding Plan/Website/themes/mikieabadi/style.css",
+		"/C/Users/Abadi/Google Drive/Wedding Plan/Website/themes/mikieabadi/style.scss",
+		"/C/Users/Abadi/Google Drive/Wedding Plan/Website/themes/mikieabadi/sassy_s/_comments.scss",
+		"/C/Users/Abadi/Google Drive/Wedding Plan/Website/themes/mikieabadi/sassy_s/_comments.css",
+		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/User/SCSS.sublime-build",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/OnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/xampp/htdocs/mikieabadi.info/wp-config.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Abadi/Documents/My Web Sites/wordpress/wp-content/themes/index.php",
+		"/D/settings.xml",
+		"/D/config.txt",
+		"/C/Users/Abadi/Downloads/Adobe Illustrator CS6 16.0.0 (32-64 bit) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/C/Users/Abadi/AppData/Roaming/XBMC/userdata/addon_data/plugin.program.advanced.launcher/settings.xml",
+		"/C/Users/Abadi/AppData/Roaming/XBMC/userdata/addon_data/plugin.program.advanced.launcher/launchers.xml",
+		"/C/Users/Abadi/AppData/Roaming/XBMC/addons/plugin.program.advanced.launcher/resources/settings.xml",
+		"/C/Users/Abadi/AppData/Roaming/XBMC/userdata/profiles/Unyil/advancedsettings.xml",
+		"/C/Windows/Logs/DirectX.log",
+		"/C/Users/Abadi/Google Drive/Project/learnpythonthehardway/ex35.py",
+		"/C/Users/Abadi/Downloads/Fringe.S05E10.480p.WEB-DL.x264-mSD.srt",
+		"/C/Users/Abadi/AppData/Roaming/XBMC/userdata/advancedsettings.xml",
+		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Abadi/Google Drive/Project/learnpythonthehardway/ex18.py",
+		"/C/Users/Abadi/Google Drive/Project/learnpythonthehardway/ex16.py",
+		"/C/Users/Abadi/Google Drive/Project/learnpythonthehardway/ex16_sample.txt",
+		"/C/Users/Abadi/Google Drive/Project/learnpythonthehardway/ex15_sample.txt",
+		"/C/Users/Abadi/Google Drive/Project/learnpythonthehardway/ex15.py",
+		"/C/Users/Abadi/Google Drive/Project/learnpythonthehardway/ex14.py",
+		"/C/cygwin/home/Abadi/temp/ex13.py",
+		"/C/temp/Backup/myvideos73.sql",
+		"/C/temp/npvr/channel_group.csv",
+		"//192.168.0.199/Users/abadi199/AppData/Roaming/XBMC/userdata/advancedsettings.xml",
+		"/C/temp/npvr/channel_group_mapping.csv",
+		"/C/temp/npvr/channel_mapping.csv",
+		"/C/temp/npvr/channel.csv",
+		"/C/Users/Abadi/Downloads/advancedsettings.xml",
+		"/C/temp/SoftPVR (64 bit).bat",
+		"//192.168.0.199/xbmc/userdata/advancedsettings.xml",
+		"//192.168.0.199/3terra/temp/music/musicdb.xml",
+		"//192.168.0.199/3terra/temp/xbmc_videodb_2012-11-18/videodb.xml",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/views/carts/show.html.erb",
+		"/C/Users/Abadi/AppData/Local/Temp/_tc/skin.immersive/addon.xml",
+		"/C/Users/Abadi/Downloads/test.html",
+		"/C/Program Files (x86)/OpenVPN/easy-rsa/vars.bat",
+		"/C/Program Files (x86)/OpenVPN/config/client.ovpn",
+		"/C/Program Files/HP/HP Officejet 6500 E710n-z/Bin/HPSolutionsPortal.hta",
+		"/C/Program Files (x86)/OpenVPN/easy-rsa/build-ca.bat",
+		"/c/Program Files (x86)/OpenVPN/easy-rsa/vars.bat",
+		"/C/Program Files (x86)/OpenVPN/easy-rsa/keys/ca.crt",
+		"/C/Program Files (x86)/OpenVPN/sample-config/client.ovpn",
+		"/E/menu.lst",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_i/app/assets/stylesheets/carts.css.scss",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/assets/stylesheets/application.css.scss",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/assets/stylesheets/carts.css.scss",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_i/app/assets/stylesheets/application.css.scss",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/controllers/line_items_controller.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/models/line_item.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/models/cart.rb",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_i/app/views/carts/show.html.erb",
+		"/C/Users/Abadi/Google Drive/Project/depot/test/functional/carts_controller_test.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/controllers/carts_controller.rb",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_h/app/controllers/carts_controller.rb",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_h/config/routes.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/config/routes.rb",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_h/app/controllers/store_controller.rb",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_h/app/controllers/application_controller.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121011050524_combine_items_in_cart.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/views/layouts/application.html.erb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/controllers/application_controller.rb",
+		"/C/Users/Abadi/AppData/Local/Temp/_tc/Storefront.Paypal/PayPalCheckoutButton.ascx",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121011022527_add_quantity_to_line_items.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/controllers/store_controller.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/views/store/index.html.erb",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/seeds.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/test/functional/line_items_controller_test.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121011010900_create_line_items.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121007052817_create_products.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121010051918_create_carts.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/assets/stylesheets/store.css.scss",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/models/product.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/assets/stylesheets/products.css.scss",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_e/app/views/layouts/application.html.erb",
+		"/C/Users/Abadi/Google Drive/Project/depot/test/functional/products_controller_test.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/test/unit/product_test.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/test/fixtures/products.yml",
+		"/C/Users/Abadi/Google Drive/Project/depot/config/database.yml",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_d/test/unit/product_test.rb",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_b/test/unit/product_test.rb",
+		"/C/Users/Abadi/Google Drive/Project/learning rails/code/rails32/depot_b/app/models/product.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/views/products/index.html.erb",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/assets/javascripts/products.js.coffee",
+		"/C/Users/Abadi/Google Drive/Project/depot/config/application.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/Gemfile",
+		"/C/Users/Abadi/Google Drive/Project/depot/config/environment.rb",
+		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.py",
+		"/C/Users/Abadi/Google Drive/Project/depot/app/views/products/_form.html.erb",
+		"/c/Users/Abadi/Google Drive/Project/depot/,",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121007035918_create_products.rb",
+		"/C/Users/Abadi/Google Drive/Project/depot/public/index.html.del",
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121007034112_create_products.rb",
+		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/E/Temp/merchant-dotnet-1.2.95/Sample/PayPalAPISample/Web.config",
+		"/E/Temp/merchant-dotnet-1.2.95/Sample/PayPalAPISample/APICalls/DoExpressCheckoutPayment.aspx.cs",
+		"/E/Inetpub/mpsa.dev/web.config",
+		"//etg19/akurniawan/Projects/web.config",
+		"/C/temp/python/hello.py",
+		"/C/temp/pyramid/hello.py",
+		"/C/temp/python/templates/index.html",
+		"/C/Users/Abadi/Google Drive/Project/pustaka/app/assets/stylesheets/bootstrap_and_overrides.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kubrickbg-ltr",
+			"input[type=button]:hover,\ninput[type=reset]:hover,\ninput[type=submit]:hover {\n	background-color: #bbbbbb;\n}\n\n",
+			"input[type=button]:hover,\ninput[type=reset]:hover,\ninput[type=submit]:hover",
+			"$menu-height",
+			":after",
+			"menu-togg",
+			"$site-main-width",
+			"1031",
+			"before",
+			"media",
+			"smartphone",
+			"location",
+			"$site-main-width",
+			"width",
+			"$site-main-width",
+			"$title-size",
+			"font",
+			"$title-size",
+			"$menu-height",
+			"header-height",
+			"width-desktop",
+			"vh",
+			"vw",
+			"4vw",
+			"vw",
+			"$accent-color",
+			"before",
+			"$accent-color: #cc3333;\n",
+			"get_template_directory_uri()",
+			"position: relative",
+			"widget_text",
+			"●",
+			"200,200,200",
+			".page-template-page-templatesgifts-php .site-header {\n	background: url('images/bg-gifts.jpg') no-repeat left bottom;\n}\n\n",
+			".page-template-page-templatespictures-php .site-header {\n	background: url('images/bg-pictures.jpg') no-repeat left bottom;\n}\n\n",
+			".page-template-page-templateslocation-php .site-header {\n	background: url('images/bg-location.jpg') no-repeat left bottom;\n}\n\n",
+			".page-template-page-templatesceremony-php .site-header {\n	background: url('images/bg-ceremony.jpg') no-repeat left bottom;\n}\n\n",
+			".page-template-page-templatesstory-php .site-header {\n	background: url('images/bg-story.jpg') no-repeat left bottom;\n}\n",
+			" ",
+			"Y:\\",
+			"\"",
+			"\"3\"",
+			"\"1\"",
+			"1",
+			"\"",
+			"\"1\"\\);",
+			"\"1\");",
+			"\"1\"",
+			"\"",
+			"\"\",\"\"",
+			"\"",
+			"\\",
+			"E:\\",
+			"</img>",
+			"*************",
+			".*************",
+			"[/IMG]",
+			"[IMG]",
+			"store_url",
+			"fixture",
+			"version",
+			"height",
+			"originalIMages",
+			"images",
+			"PhotoSwipeClass",
+			"images",
+			"height:",
+			"doMoveCarousel",
+			"doMoveCo",
+			"isSliding",
+			"getTouchEvent",
+			"scale",
+			"zoom",
+			"scale",
+			"zoom",
+			"pagination",
+			"attach",
+			"zoom",
+			"imageScaleMethod",
+			"isLandscape",
+			"@media (max-width: 979px)",
+			".navbar .container",
+			".navbar .nav > li > a",
+			"@media (max-width: 979px)",
+			"body",
+			".navbar .nav > li > a",
+			".container",
+			"        $('.",
+			"cbz",
+			"file_comic",
+			"ext",
+			"create_thumbnail_name",
+			"series",
+			"600",
+			"container",
+			"475",
+			"body",
+			"span2",
+			"Rails.application.config.assets.paths",
+			"try",
+			"catch",
+			"new_image_name",
+			"[0]",
+			"pathname",
+			"rar",
+			"Dir",
+			"File.",
+			"parse_file",
+			"span",
+			"<%= link_to t('.new', :default => t(\"helpers.links.new\")),\n            new_watched_folder_path,\n            :class => 'btn btn-primary' %>\n",
+			"book",
+			"			epub = Epub.new(file)\n			Book.create(:title => epub.title,\n				:author => epub.creator,\n				:description => epub.description,\n				:publication_date => 'November 22, 2011',\n				:publisher => 'Knopf Doubleday Publishing Group',\n				:isbn_10 => '0307949486',\n				:isbn_13 => '978-0307949486',\n				:cover_file => 'Stag Larsson/The Girl with the Dragon Tattoo/Stag Larsson - The Girl with the Dragon Tattoo.jpg',\n				:book_file => 'Stag Larsson/The Girl with the Dragon Tattoo/Stag Larsson - The Girl with the Dragon Tattoo.epub')\n			Rails.logger.debug \"title: #{epub.title}\"\n		rescue Exception => e\n			Rails.logger.error e\n		end\n	end\nend	",
+			"epub",
+			"watched_folder.rb",
+			"puts",
+			"Guard is now watching",
+			" = \"\"",
+			"i",
+			"requirement",
+			"require",
+			"fssm",
+			"action:",
+			"location:",
+			"status:",
+			"notice:",
+			":json",
+			"json:",
+			"autoload_paths"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"128,128,128",
+			"Z:\\",
+			"'",
+			"\"3\");",
+			"\"3\"",
+			"'",
+			"\"1\");\\nINSERT INTO CHANNEL_MAPPING(channel_oid,capture_source_oid,channel_source_number,tuning,enabled,service_type) VALUES(",
+			"\"1\");\\nINSERT INTO CHANNEL_MAPPING(channel_oid,capture_source_oid,channel_source_number,tuning,enabled,service_type) VALUES(\\n",
+			"\"1\");",
+			"",
+			"'",
+			"\"\",\"\");",
+			"",
+			"/",
+			"SMB://192.168.0.199/3terra/",
+			"\"/>",
+			"blogspot.com",
+			"</img>",
+			"<img src=\"",
+			"thumbnail_name",
+			"watched_folder_daemon.rb",
+			"Rails.logger.debug",
+			":action => ",
+			":location => ",
+			":status => ",
+			":notice => ",
+			":json => ",
+			":json",
+			"dd"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mikieabadi/style.scss",
+					"settings":
+					{
+						"buffer_size": 10298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8907,
+								8907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5570.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"show",
+				"app/views/carts/show.html.erb"
+			],
+			[
+				"carts.css",
+				"app/assets/stylesheets/carts.css.scss"
+			],
+			[
+				"scss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"cart",
+				"app/models/cart.rb"
+			],
+			[
+				"line_item.",
+				"app/models/line_item.rb"
+			],
+			[
+				"lineitemcon",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"cartscontrollertest",
+				"test/functional/carts_controller_test.rb"
+			],
+			[
+				"cart_cont",
+				"app/controllers/carts_controller.rb"
+			],
+			[
+				"cartshow",
+				"app/views/carts/show.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"cartcon",
+				"app/controllers/carts_controller.rb"
+			],
+			[
+				"migra",
+				"db/migrate/20121011050524_combine_items_in_cart.rb"
+			],
+			[
+				"view",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appl",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"line",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"cart_con",
+				"app/controllers/carts_controller.rb"
+			],
+			[
+				"store",
+				"app/controllers/store_controller.rb"
+			],
+			[
+				"layou",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"linecont",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"app/views/",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"index",
+				"app/views/store/index.html.erb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"appcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"migrateline",
+				"db/migrate/20121011010900_create_line_items.rb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"mig",
+				"db/migrate/20121007052817_create_products.rb"
+			],
+			[
+				"line_test",
+				"test/functional/line_items_controller_test.rb"
+			],
+			[
+				"line_",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"store.css.",
+				"app/assets/stylesheets/store.css.scss"
+			],
+			[
+				"sass",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"line_items_con",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"product",
+				"app/models/product.rb"
+			],
+			[
+				"app_cn",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"sas",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"storecon",
+				"app/controllers/store_controller.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"test/fi",
+				"test/fixtures/products.yml"
+			],
+			[
+				"unit",
+				"test/unit/product_test.rb"
+			],
+			[
+				"test.rb",
+				"test/functional/products_controller_test.rb"
+			],
+			[
+				"product.css",
+				"app/assets/stylesheets/products.css.scss"
+			],
+			[
+				"produc",
+				"app/assets/stylesheets/products.css.scss"
+			],
+			[
+				"gemi",
+				"Gemfile"
+			],
+			[
+				"enviro",
+				"config/environment.rb"
+			],
+			[
+				"form",
+				"app/views/products/_form.html.erb"
+			],
+			[
+				"create",
+				"db/migrate/20121007052817_create_products.rb"
+			],
+			[
+				"boocss",
+				"app/assets/stylesheets/books.css.scss"
+			],
+			[
+				"boojs",
+				"app/assets/javascripts/books.js.coffee"
+			],
+			[
+				"boocon",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"read.",
+				"app/views/books/read.html.erb"
+			],
+			[
+				"_boo",
+				"app/views/books/_book.html.erb"
+			],
+			[
+				"applcss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"book.js",
+				"app/assets/javascripts/books.js.coffee"
+			],
+			[
+				"applcation.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"css",
+				"public/stylesheets/application.css"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				".js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"_book",
+				"app/views/books/_book.html.erb"
+			],
+			[
+				"less",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"read",
+				"app/views/books/read.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"bookcon",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"_page",
+				"app/views/books/_page.html.erb"
+			],
+			[
+				"epub",
+				"lib/epub_file.rb"
+			],
+			[
+				"comicf",
+				"lib/comic_file.rb"
+			],
+			[
+				"comicfile",
+				"lib/comic_file.rb"
+			],
+			[
+				"bookfile",
+				"lib/book_file.rb"
+			],
+			[
+				"page",
+				"app/views/books/_page.html.erb"
+			],
+			[
+				"js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"book.css",
+				"app/assets/stylesheets/books.css.scss"
+			],
+			[
+				"bookhtml",
+				"app/views/books/index.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"filecom",
+				"lib/file_comic.rb"
+			],
+			[
+				"_serie",
+				"app/views/series/_series.html.erb"
+			],
+			[
+				"help",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"config/",
+				"config/environment.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"file_comi",
+				"lib/file_comic.rb"
+			],
+			[
+				"_ser",
+				"app/views/series/_series.html.erb"
+			],
+			[
+				"seriescss",
+				"app/assets/stylesheets/series.css.scss"
+			],
+			[
+				"apl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"series",
+				"app/models/series.rb"
+			],
+			[
+				"brow",
+				"app/views/books/browse_by_series.html.erb"
+			],
+			[
+				"_",
+				"app/views/books/_series.html.erb"
+			],
+			[
+				"book",
+				"app/models/book.rb"
+			],
+			[
+				"bookscon",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"serie",
+				"app/models/series.rb"
+			],
+			[
+				"seriesshow",
+				"app/views/series/show.html.erb"
+			],
+			[
+				"bookin",
+				"app/views/books/index.html.erb"
+			],
+			[
+				"catesho",
+				"app/views/categories/show.html.erb"
+			],
+			[
+				"catein",
+				"app/views/categories/index.html.erb"
+			],
+			[
+				"watcon",
+				"app/controllers/watched_folders_controller.rb"
+			],
+			[
+				"imageto",
+				"lib/image_tool.rb"
+			],
+			[
+				"fileboo",
+				"lib/file_book.rb"
+			],
+			[
+				"file_sca",
+				"lib/file_scanner.rb"
+			],
+			[
+				"file_cb",
+				"lib/file_cbr.rb"
+			],
+			[
+				"comic",
+				"lib/file_comic.rb"
+			],
+			[
+				"addser",
+				"db/migrate/20120413025000_add_series_to_books.rb"
+			],
+			[
+				"secon",
+				"app/controllers/series_controller.rb"
+			],
+			[
+				"ser",
+				"app/views/series/index.html.erb"
+			],
+			[
+				"serindex",
+				"app/views/series/index.html.erb"
+			],
+			[
+				"catecon",
+				"app/controllers/categories_controller.rb"
+			],
+			[
+				"seriescon",
+				"app/controllers/series_controller.rb"
+			],
+			[
+				"scaff",
+				"app/assets/stylesheets/scaffolds.css.scss"
+			],
+			[
+				"scan",
+				"lib/file_scanner.rb"
+			],
+			[
+				"wh",
+				"app/helpers/watched_folders_helper.rb"
+			],
+			[
+				"model/w",
+				"app/models/watched_folder.rb"
+			],
+			[
+				"watind",
+				"app/views/watched_folders/index.html.erb"
+			],
+			[
+				"wa",
+				"app/controllers/watched_folders_controller.rb"
+			],
+			[
+				"bok",
+				"app/models/book.rb"
+			],
+			[
+				"bookcoff",
+				"app/assets/javascripts/books.js.coffee"
+			],
+			[
+				"files",
+				"lib/file_scanner.rb"
+			],
+			[
+				"wain",
+				"app/views/watched_folders/index.html.erb"
+			],
+			[
+				"book.",
+				"app/models/book.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"books/inde",
+				"app/views/books/index.html.erb"
+			],
+			[
+				"book_contro",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"book/inde",
+				"app/views/books/index.html.erb"
+			],
+			[
+				"wacon",
+				"app/controllers/watched_folders_controller.rb"
+			],
+			[
+				"aconto",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applca",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"books_con",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"books.sc",
+				"app/assets/stylesheets/books.css.scss"
+			],
+			[
+				"filesca",
+				"lib/file_scanner.rb"
+			],
+			[
+				"book/",
+				"app/views/books/show.html.erb"
+			],
+			[
+				"_b",
+				"app/views/books/_book.html.erb"
+			],
+			[
+				"model",
+				"app/models/book.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Abadi/Google Drive/Project/pustaka/pustaka.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true
+}

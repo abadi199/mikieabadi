@@ -1,0 +1,653 @@
+/*!
+Theme Name: mikieabadi
+Theme URI: http://underscores.me
+Author: Abadi Kurniawan
+Author URI: http://onjet.us/
+Description: Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if you like. I'm a theme meant for hacking so don't use me as a <em>Parent Theme</em>. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+Version: 1.3-wpcom
+License: GNU General Public License
+License URI: license.txt
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Resetting and rebuilding styles have been helped along thanks to the fine work of
+Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
+along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+and Blueprint http://www.blueprintcss.org/
+*/
+
+// reset styles should stay at the top
+@import 'sassy_s/reset';
+
+// configure the style from settings
+@import 'sassy_s/settings';
+
+// move mixins to their own partial
+@import 'sassy_s/mixins';
+
+// feel free to add any new files you want; if you add them this list they'll be included
+@import 'sassy_s/global';
+@import 'sassy_s/typography';
+@import 'sassy_s/layout';
+@import 'sassy_s/menu';
+@import 'sassy_s/content';
+@import 'sassy_s/postformats';
+@import 'sassy_s/media';
+@import 'sassy_s/navigation';
+@import 'sassy_s/comments';
+@import 'sassy_s/widgets';
+@import 'sassy_s/infinitescroll';
+
+$smartphone: "only screen and (max-width : 1000px)";
+$smartphone-landscape: "only screen and (min-width : 321px)";
+$smartphone-portrait: "only screen and (max-width : 320px)";
+$desktop: "only screen and (min-width : 1000px)";
+
+/*** Colors ***/
+$background-color: #e9eaeb;
+$accent-color: #cc3333;
+$accent-light-color: #eea1a1;
+$bold-color: #3b3b3b;
+$subtle-background-color: #eeeeee;
+
+/*** Relative to viewport size ***/
+$header-height: 90vh;
+$header-mobile-height: 50vh;
+$menu-height: 80px;
+$menu-mobile-height: 40px;
+$title-size: 3em;
+$site-main-width: 80vw;
+
+/*** Fallback size for older browser ***/
+$header-height-fallback: 500px;
+$menu-height-fallback: 80px;
+$title-size-fallback: 3em;
+$site-main-width-fallback: 80%;
+
+body {
+	background-color: $background-color;
+	font-size: 1.5em;
+}
+
+#page {
+	width: 100%;
+	// position: relative;
+}
+
+@media #{$smartphone} { 
+	#page { 
+		// background: red;
+	}
+}
+
+$input-shadow-color: #d6d6d6;
+$input-border-color: #909090;
+input[type=Text] {
+	padding: 10px;
+	border: 1px solid $input-border-color;
+	border-radius: 0;
+	-webkit-box-shadow: 0 0 0 5px $input-shadow-color;
+			box-shadow: 0 0 0 5px $input-shadow-color;
+}
+
+input[type=button],
+input[type=reset],
+input[type=submit],
+input[type=button]:hover,
+input[type=reset]:hover,
+input[type=submit]:hover,
+input[type=button]:focus,
+input[type=reset]:focus,
+input[type=submit]:focus,
+input[type=button]:active,
+input[type=reset]:active,
+input[type=submit]:active {
+	background-color: $input-shadow-color;
+	border: 1px solid $input-border-color; 
+	padding: 24px 24px;
+	font-weight: bold;
+	border-radius: 0;
+	-webkit-box-shadow: inset 0 0 0 5px #ffffff;
+			box-shadow: inset 0 0 0 5px #ffffff;
+}
+
+input[type=button]:hover,
+input[type=reset]:hover,
+input[type=submit]:hover {
+	background-color: #bbbbbb;
+}
+
+input[type=button]:focus,
+input[type=reset]:focus,
+input[type=submit]:focus {
+	background-color: #aaaaaa;
+}
+
+.site-header {
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+	max-height: 960px;
+	background-color: #aaaaaa;
+	position: relative;
+
+	h1 {
+		// float: right;
+		position: absolute;
+		top: 40px;
+		right: 0;
+		font-size: $title-size-fallback;
+		font-size: $title-size;
+		font-family: 'Oswald', sans-serif;
+		font-weight: lighter;
+		padding: 0 1em 0 0.3em;
+		border-bottom: 5px solid $accent-color;
+
+		a, a:visited {color: #ffffff;text-decoration: none;}
+	}
+
+	height: $header-height-fallback;
+	height: $header-height;
+	float: left;
+	z-index: 1030;
+
+    -webkit-box-shadow: 0px -7px 10px 10px #000;
+            box-shadow: 0px -7px 10px 10px #000;
+}
+
+@media #{$smartphone} {
+	.site-header {
+		height: $header-mobile-height;
+	}
+}
+
+/*--- Navigation Menu ----*/
+.navigation-main {
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(255,255,255,0.65); 
+	width: 100%;
+	height: $menu-height-fallback;
+	height: $menu-height;
+	float: left;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	z-index: 1040;
+
+	.menu-toggle {
+		display: none; 
+	}
+
+	.menu-container {
+		width: 100%;
+		overflow: hidden;
+
+		ul {
+			clear: left;
+			float: left;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			position: relative;
+			left: 50%;
+			text-align: center;
+
+			li { 
+				display: block;
+				float: left;
+				position: relative;
+				text-align: center;
+				right: 50%;
+				
+				a { 
+					display: block;
+					line-height: $menu-height-fallback;
+					line-height: $menu-height;
+					display: block;
+					text-decoration: none;
+					padding: 0 2vw;
+					color: #000000;
+					font-size: 2em;
+					text-transform: lowercase;
+				}
+
+				a:before {
+					content: 'the ';
+					font-weight: 100;
+				}
+
+			}
+
+			li.current_page_item:before {
+				content: '\25CF';
+				font-size: 2em;
+				float: left;
+				color: $accent-color;
+				line-height: $menu-height-fallback;
+				line-height: $menu-height;
+				margin-left: -0.3em;
+			}
+
+			li:hover {
+				background-color: rgba(128,128,128,0.5);
+				-webkit-box-shadow: 0px 0px 5px 5px rgba(128,128,128,0.5);
+						box-shadow: 0px 0px 5px 5px rgba(128,128,128,0.5);
+				a { color: #ffffff; }
+			}
+		}
+	}
+}
+
+@media #{$smartphone} { 
+	.navigation-main {
+		height: $menu-mobile-height;
+
+		.menu-toggle { 
+			display: block; 
+			border: none;
+			color: $bold-color;
+			position: relative;
+			top: 0;
+			line-height: $menu-mobile-height;
+			font-size: 1.2em;
+			font-weight: bold;
+			text-transform: lowercase;
+			text-align: right;
+
+			a, a:visited { 
+				color: $bold-color;
+				line-height: $menu-mobile-height;
+			}
+		}
+
+		.menu-container {
+			z-index: 1031;
+			display: none;
+			background-color: rgba(255,255,255,0.8);
+			ul {
+				float: none;
+				li {
+					float: none;					
+				}
+
+				li.current_page_item {
+					border-bottom: 2px solid $accent-color;
+					margin: 0 15%;
+				}
+
+				li.current_page_item:before {
+					content: none;
+				}
+			}
+		}
+	}	
+}
+
+.navigation-main.affix, .navigation-main.affix-bottom {
+	position: fixed;
+    -webkit-box-shadow: 0px -7px 10px 10px #000;
+        box-shadow: 0px -7px 10px 10px #000;
+
+	top: 0;
+}
+
+#primary {
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: 100%;
+
+	#content {
+		margin: 0;
+	}
+}
+
+#secondary {
+	float: left;
+	width: 100%;
+}
+
+.main-container {
+    margin-top: $header-height-fallback;
+    margin-top: $header-height;
+    clear: both;
+}
+
+/*------ Main Content -----------*/
+.site-main {
+	margin: 0 auto;
+	display: block;
+	width: $site-main-width-fallback;
+	width: $site-main-width;
+	max-width: 1200px;
+	background-color: #ffffff;
+	z-index: 1;
+	padding: 40px 5%;
+	color: #777777;
+	font-family: 'Open sans', sans-serif;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);	
+
+	.widget-area {
+		/********* Text Widget *********/
+		.widget_text {
+			float: left;
+			width: 73%;
+			width: calc(75% - 1em);
+			background: $subtle-background-color;
+			padding: 2em 2em 0 2em;
+			color: #000000;
+		}
+
+		/********** Countdown Widget ********/
+		.shailan_CountdownWidget { 
+			text-align: center;
+			width: 25%;
+			float: right;
+			a { display: none; } 
+			h1 {
+				color: #ffffff; 
+				font-size: 1.3em; 
+				padding: 0.9em 0px; 
+				border: medium none; 
+				background-color: $accent-light-color;
+				margin-bottom: 5px;
+			}
+
+			.countdown {
+				background: $accent-light-color; 
+				color: #ffffff;
+				font-size: 1.2em;
+				padding: 0.7em 0;
+
+				.countdown_amount {
+					font-size: 2.2em;
+				}				
+			}
+		}
+	}
+
+	.slideshowlink { display: none; }
+
+	.site-content {
+		padding-right: 20px;
+	}
+
+	.comments-area {
+		margin-top: 2em;
+
+		h3 {
+			font-size: 1.7em;
+			font-family: 'Oswald', sans-serif;
+			color: $bold-color;
+			font-weight: bold;
+			margin-bottom: 0.5em;
+		}
+
+		.commentlist {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+
+		#respond {
+			background-color: $subtle-background-color;
+			padding: 2em;
+			margin: 0;
+
+			#commentform {
+				label {
+					width: 15%;
+					float: left;
+					clear: both;
+					line-height: 2em;
+				}
+
+				input[type=text] {
+					width: 50%;
+					float: left;
+					clear: right;
+					margin-bottom: 1.5em;
+				}
+
+				@media #{$smartphone} {
+					label {
+						width: 100%;
+					}
+
+					input[type=text] {
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+
+	h1 {
+		font-size: 2.5em;
+		font-family: 'Oswald', sans-serif;
+		color: $accent-color;
+		text-transform: capitalize;
+	}
+
+	h2 {
+		font-size: 1.7em;
+		font-family: 'Oswald', sans-serif;
+		color: $bold-color;
+		font-weight: bold;
+		margin-bottom: 0.5em;
+	}
+
+	h3 {
+		font-weight: bold;
+	}
+
+	a, a:visited {
+		color: $accent-color;
+		text-decoration: none;
+		font-weight: bold;
+	}
+}
+@media #{$smartphone} { 
+	.site-main {
+		width: 100%;
+
+		.widget-area {
+			/********* Text Widget *********/
+			.widget_text {
+				width: 100%;
+			}
+
+			/********** Countdown Widget ********/
+			.shailan_CountdownWidget { 
+				width: 100%;
+			}
+		}
+	}
+}
+
+.twocols {
+	float: left;
+	width: 50%;
+	padding-right: 5%;
+}
+
+@media #{$smartphone} { 
+	.twocols {
+		width: 100%;
+		padding: 0;
+		margin: 0;
+	}
+}	
+
+
+/*********** Story ****************/
+.story {
+	.site-header {
+		background-image: url('images/bg-story.jpg');
+		background-position: center bottom;
+	}
+
+	.entry-title:before {
+		content: 'our ';
+		color: $accent-light-color;
+	}
+
+	.twocols img {
+		border: 20px solid white;
+		border-bottom: 60px solid white;
+		-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.8);
+				box-shadow: 0 0 10px 0 rgba(0,0,0,0.8);
+	}
+
+	h2 {
+		margin-left: 0.5em;
+	}
+
+}
+
+/*********** Ceremony ****************/
+.ceremony {
+	.site-header {
+		background-image: url('images/bg-ceremony.jpg');
+	}	
+
+	.summary {
+		margin-bottom: 2em;
+	}
+
+	.location {
+		font-size: 1.2em;
+		font-weight: bold;
+		text-align: center;
+		margin-bottom: 1.5em;
+	}
+
+	.dtstart, .value {
+		text-align: center;
+	}
+
+	.invitation {
+		margin-top: 3em;
+		text-align: center;
+
+		.invitation-front {
+			margin-right: 3%;
+		}
+	}
+} 
+
+/*********** Location ****************/
+.location {
+	.site-header {
+		background-image: url('images/bg-location.jpg');
+	}
+
+	ul.hotels {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		li {
+			background-color: $subtle-background-color;
+			border: 5px solid #e1e1e1;
+			float: left;
+			margin: 0 2em 2em 0;
+			padding: 1.5em;
+			width: 225px;
+			height: 300px;
+		}
+	}
+}
+
+/*********** Pictures ****************/
+.pictures {
+	.site-header {
+		background-image: url('images/bg-pictures.jpg');
+		background-position: left center;
+	}
+}
+
+/*********** Gifts ****************/
+.gifts {
+	.site-header {
+		background-image: url('images/bg-gifts.jpg');
+	}
+
+	.registry-links {
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.amazon-logo { width: 30%; }
+
+	@media #{$smartphone} { 
+		.amazon-logo { width: 85%; }
+	}
+} 
+
+
+/*********** RSVP ****************/
+.rsvp {
+	.site-header {
+		background-image: url('images/bg-rsvp.jpg');
+	}
+
+	#rsvp .rsvpParagraph {
+		label {
+			width: 20%;
+			float: left;
+			line-height: 3em;
+		}
+
+		label.error {
+			color: red;
+			line-height: 3em;
+		}
+
+		input[type=Text] {
+			padding: 10px;
+			border: 1px solid #909090;
+			width: 50%;
+			-webkit-box-shadow: 0 0 0 5px #d6d6d6;
+					box-shadow: 0 0 0 5px #d6d6d6;
+		}
+
+		input[type=submit] {
+			margin-left: 20%;
+		}
+
+		@media #{$smartphone} { 
+			input[type=Text] {
+				width: 100%;
+				margin-top: 10px;
+			}
+
+			input[type=submit] {
+				margin-left: 0;
+				margin-top: 1em;
+			}
+
+			label {
+				width: 100%;
+			}
+
+			label.error {
+				line-height: 1em;
+			}
+		}
+	}
+
+	#rsvpForm .rsvpAdditionalAttendee .rsvpFormField {
+		label { margin-right: 2em;}
+	}
+}
+
+.site-footer {
+	.site-info {
+		text-align: center;
+		font-size: 0.8em;
+		margin: 40px;
+	}
+}
