@@ -494,17 +494,18 @@ input[type=submit]:focus {
 		color: $accent-light-color;
 	}
 
-	.twocols img {
-		border: 20px solid white;
-		border-bottom: 60px solid white;
-		-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.8);
-				box-shadow: 0 0 10px 0 rgba(0,0,0,0.8);
-	}
+	.twocols {
+		img {
+			border: 20px solid white;
+			border-bottom: 60px solid white;
+			-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.8);
+					box-shadow: 0 0 10px 0 rgba(0,0,0,0.8);
+		}
 
-	h2 {
-		margin-left: 0.5em;
+		h2 {
+			margin-left: 0.5em;
+		}
 	}
-
 }
 
 /*********** Ceremony ****************/
