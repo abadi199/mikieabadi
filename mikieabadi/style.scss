@@ -594,6 +594,12 @@ input[type=submit]:focus {
 		background-image: url('images/bg-rsvp.jpg');
 	}
 
+	.site-main {
+		h1 {
+			text-transform: uppercase;
+		}
+	}
+
 	#rsvp .rsvpParagraph {
 		label {
 			width: 20%;

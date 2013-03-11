@@ -4,12 +4,40 @@
 		"selected_items":
 		[
 			[
-				"input",
-				"input-shadow"
+				"back",
+				"background-origin"
 			],
 			[
-				"back",
-				"background-color"
+				"he",
+				"header-mobile-height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"subtle-background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"su",
+				"subtle-background-color"
+			],
+			[
+				"input",
+				"input-shadow"
 			],
 			[
 				"text",
@@ -54,18 +82,6 @@
 			[
 				"heade",
 				"header-height-fallback"
-			],
-			[
-				"mar",
-				"margin"
-			],
-			[
-				"text-",
-				"text-align"
-			],
-			[
-				"fon",
-				"font-size"
 			],
 			[
 				"pad",
@@ -355,7 +371,7 @@
 			"file": "mikieabadi/style.scss",
 			"settings":
 			{
-				"buffer_size": 10298,
+				"buffer_size": 12056,
 				"line_ending": "Unix"
 			}
 		}
@@ -404,11 +420,23 @@
 	},
 	"file_history":
 	[
-		"/C/Windows/System32/Drivers/etc/hosts",
-		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/style.scss",
-		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/header.php",
-		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/footer.php",
+		"/C/Users/akurniawan/Downloads/credentials.csv",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/comments.php",
 		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/functions.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/style.scss",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/inc/template-tags.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page.php",
+		"/C/xampp/htdocs/mikieabadi.info/wp-content/themes/twentytwelve/comments.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/content-page.php",
+		"/C/xampp/htdocs/mikieabadi.info/wp-content/themes/twentyeleven/comments.php",
+		"/C/xampp/htdocs/mikieabadi.info/wp-content/themes/twentytwelve/page.php",
+		"/C/xampp/htdocs/mikieabadi.info/wp-content/themes/twentytwelve/functions.php",
+		"/C/xampp/htdocs/mikieabadi.info/wp-content/themes/twentytwelve/inc/custom-header.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/header.php",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/content.php",
+		"/C/xampp/htdocs/mikieabadi.info/wp-content/themes/twentytwelve/content.php",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/footer.php",
 		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/gifts.php",
 		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/page-templates/pictures.php",
 		"/C/Users/akurniawan/Google Drive/Wedding Plan/Website/themes/mikieabadi/js/navigation.js",
@@ -519,19 +547,7 @@
 		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.py",
 		"/C/Users/Abadi/Google Drive/Project/depot/app/views/products/_form.html.erb",
 		"/c/Users/Abadi/Google Drive/Project/depot/,",
-		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121007035918_create_products.rb",
-		"/C/Users/Abadi/Google Drive/Project/depot/public/index.html.del",
-		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121007034112_create_products.rb",
-		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
-		"/C/Users/Abadi/AppData/Roaming/Sublime Text 2/Packages/Terminal/Default (Windows).sublime-keymap",
-		"/E/Temp/merchant-dotnet-1.2.95/Sample/PayPalAPISample/Web.config",
-		"/E/Temp/merchant-dotnet-1.2.95/Sample/PayPalAPISample/APICalls/DoExpressCheckoutPayment.aspx.cs",
-		"/E/Inetpub/mpsa.dev/web.config",
-		"//etg19/akurniawan/Projects/web.config",
-		"/C/temp/python/hello.py",
-		"/C/temp/pyramid/hello.py",
-		"/C/temp/python/templates/index.html",
-		"/C/Users/Abadi/Google Drive/Project/pustaka/app/assets/stylesheets/bootstrap_and_overrides.css"
+		"/C/Users/Abadi/Google Drive/Project/depot/db/migrate/20121007035918_create_products.rb"
 	],
 	"find":
 	{
@@ -550,6 +566,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h1",
+			"header-hei",
+			"smartphone",
+			"header-height",
+			"twentyeleven",
+			"comment",
+			"twentytwelve",
+			"comment",
+			"input[",
+			"slideshowlink",
+			"rsvpParagraph",
+			"span",
+			"#EEEEEE",
 			"kubrickbg-ltr",
 			"input[type=button]:hover,\ninput[type=reset]:hover,\ninput[type=submit]:hover {\n	background-color: #bbbbbb;\n}\n\n",
 			"input[type=button]:hover,\ninput[type=reset]:hover,\ninput[type=submit]:hover",
@@ -664,20 +693,7 @@
 			"			epub = Epub.new(file)\n			Book.create(:title => epub.title,\n				:author => epub.creator,\n				:description => epub.description,\n				:publication_date => 'November 22, 2011',\n				:publisher => 'Knopf Doubleday Publishing Group',\n				:isbn_10 => '0307949486',\n				:isbn_13 => '978-0307949486',\n				:cover_file => 'Stag Larsson/The Girl with the Dragon Tattoo/Stag Larsson - The Girl with the Dragon Tattoo.jpg',\n				:book_file => 'Stag Larsson/The Girl with the Dragon Tattoo/Stag Larsson - The Girl with the Dragon Tattoo.epub')\n			Rails.logger.debug \"title: #{epub.title}\"\n		rescue Exception => e\n			Rails.logger.error e\n		end\n	end\nend	",
 			"epub",
 			"watched_folder.rb",
-			"puts",
-			"Guard is now watching",
-			" = \"\"",
-			"i",
-			"requirement",
-			"require",
-			"fssm",
-			"action:",
-			"location:",
-			"status:",
-			"notice:",
-			":json",
-			"json:",
-			"autoload_paths"
+			"puts"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -685,6 +701,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"mikieabadi",
+			"div",
 			"128,128,128",
 			"Z:\\",
 			"'",
@@ -732,15 +750,15 @@
 					"file": "mikieabadi/style.scss",
 					"settings":
 					{
-						"buffer_size": 10298,
+						"buffer_size": 12056,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8907,
-								8907
+								699,
+								699
 							]
 						],
 						"settings":
@@ -749,7 +767,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 5570.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

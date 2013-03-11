@@ -1007,6 +1007,8 @@ input[type=submit]:focus {
 /*********** RSVP ****************/
 .rsvp .site-header {
   background-image: url("images/bg-rsvp.jpg"); }
+.rsvp .site-main h1 {
+  text-transform: uppercase; }
 .rsvp #rsvp .rsvpParagraph label {
   width: 20%;
   float: left;
